@@ -1,0 +1,9 @@
+# Nom du jeu de données
+train: dataset/images/train  # Chemin vers les images d'entraînement
+val: dataset/images/val      # Chemin vers les images de validation
+
+# Nombre de classes
+nc: 1  # Une seule classe ("cadran m3")
+
+# Noms des classes
+names: ["cadran_m3"]
