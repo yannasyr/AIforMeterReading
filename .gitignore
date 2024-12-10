@@ -4,3 +4,5 @@
 *.csv
 *.txt
 env_aimeterreading
+notebook_utils
+runs

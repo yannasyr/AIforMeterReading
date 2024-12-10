@@ -2,8 +2,8 @@ import cv2
 import os
 
 # Répertoires des images et annotations
-image_dir = "datasets/YOLO-training/images200/"  # Répertoire contenant les images
-output_dir = "datasets/YOLO-training/labels200/"  # Répertoire pour sauvegarder les annotations
+image_dir = "datasets/YOLO-training-bis/images200/"  # Répertoire contenant les images
+output_dir = "datasets/YOLO-training-bis/labels200/"  # Répertoire pour sauvegarder les annotations
 
 def annotate_image(image_path):
     """
