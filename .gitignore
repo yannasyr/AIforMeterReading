@@ -7,3 +7,5 @@ env_aimeterreading
 notebook_utils
 runs
 *.pt
+*.pb
+*.h5
