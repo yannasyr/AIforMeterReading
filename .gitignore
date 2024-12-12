@@ -4,8 +4,4 @@
 *.csv
 *.txt
 env_aimeterreading
-models
 runs
-*.pt
-*.pb
-*.h5
